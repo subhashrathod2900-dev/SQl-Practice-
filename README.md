@@ -1,2 +1,2 @@
-# SQl-Practice-
-Python and SQL Practice Question 
+# SQl-Practic
+SQL Practice Question 
