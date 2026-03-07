@@ -1,2 +1,2 @@
-# SQl-Practic
-SQL Practice Question 
+# SQl-Practice
+1 ) SQL Basic Practice Question 
