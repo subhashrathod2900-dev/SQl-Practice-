@@ -1,2 +1,7 @@
-# SQl-Practice
-1 ) SQL Basic Practice Question 
+# SQL :
+
+###  DDL (DATA DEFINATION LANGUAGE) :
+
+
+### DML( DATA MANUPULATION LANGUAGE):
+
